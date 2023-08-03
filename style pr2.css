@@ -1,0 +1,232 @@
+.iphone14 {
+    width: 390px; 
+    height: 644px; 
+    position: relative; 
+    background: #EFF5B5; 
+}
+img {
+    width: 157px; 
+    height: 280px; 
+    left: 226px; 
+    top: 118px; 
+    position: absolute; 
+    border-radius: 6px;
+}
+.Frame1 {
+    width: 61px; 
+    padding-top: 7px; 
+    padding-bottom: 7px; 
+    padding-left: 7px; 
+    padding-right: 127px; 
+    left: 0px; 
+    top: 120px; 
+    position: absolute; 
+    background: #727557; 
+    justify-content: flex-start; 
+    align-items: center; 
+    display: inline-flex;
+}
+.Biodata {
+    color: #D6DBA2; 
+    font-size: 15px; 
+    font-family: Montserrat; 
+    font-weight: 600; 
+    word-wrap: break-word
+}
+.Frame8 {
+    padding-top: 7px; 
+    padding-bottom: 7px; 
+    padding-left: 7px; 
+    padding-right: 33px; 
+    left: 0px; 
+    top: 268px; 
+    position: absolute; 
+    background: #727557; 
+    justify-content: flex-start; 
+    align-items: center; 
+    display: inline-flex
+}
+.RiwayatPendidikan {
+    color: #D6DBA2; 
+    font-size: 15px; 
+    font-family: Montserrat; 
+    font-weight: 600; 
+    word-wrap: break-word;
+}
+.Frame9 {
+    width: 37px; 
+    padding-top: 7px; 
+    padding-bottom: 7px; 
+    padding-left: 7px; 
+    padding-right: 151px; 
+    left: 0px; 
+    top: 358px; 
+    position: absolute; 
+    background: #727557; 
+    justify-content: flex-start; 
+    align-items: center; 
+    display: inline-flex;
+}
+.Hobi {
+    color: #D6DBA2; 
+    font-size: 15px; 
+    font-family: Montserrat; 
+    font-weight: 600; 
+    word-wrap: break-word;
+}
+.Frame10 {
+    padding-top: 7px; 
+    padding-bottom: 7px;
+    padding-left: 7px; 
+    padding-right: 89px; 
+    left: 0px; 
+    top: 446px; 
+    position: absolute; 
+    background: #727557; 
+    justify-content: flex-start; 
+    align-items: center; 
+    display: inline-flex;
+}
+.Pengalaman {
+    color: #D6DBA2; 
+    font-size: 15px; 
+    font-family: Montserrat; 
+    font-weight: 600;
+    word-wrap: break-word;
+}
+.Frame7 {
+    width: 243px; 
+    height: 38px; 
+    left: 147px; 
+    top: 68px; 
+    position: absolute; 
+    background: #B0B586;
+}
+.MochammadBachrudinSalim {
+    left: 150px; 
+    top: 77px; 
+    position: absolute; 
+    color: #343628; 
+    font-size: 15px; 
+    font-family: Montserrat; 
+    font-weight: 600; 
+    word-wrap: break-word;
+}
+.Frame6 {
+    width: 390px; 
+    height: 58px; 
+    left: 0px; 
+    top: 586px; 
+    position: absolute; 
+    background: #B0B586;
+}
+.Youtube {
+    left: 208px; 
+    top: 607px; 
+    position: absolute; 
+    color: white; 
+    font-size: 12px; 
+    font-family: 'Open Sans', sans-serif 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.Instagram {
+    left: 126px; 
+    top: 607px; 
+    position: absolute; 
+    color: white; 
+    font-size: 12px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.Rectangle1 {
+    width: 390px; 
+    height: 64px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: #B0B586;
+}
+.Rectangle3 {
+    width: 195px; 
+    height: 42px; 
+    left: 0px; 
+    top: 397px; 
+    position: absolute; 
+    background: #D6DBA2;
+}
+.Rectangle4 { 
+    width: 195px; 
+    height: 48px; 
+    left: 0px; 
+    top: 305px; 
+    position: absolute; 
+    background: #D6DBA2;
+}
+.Rectangle5 {
+    width: 195px; 
+    height: 107px; 
+    left: 0px; 
+    top: 157px; 
+    position: absolute; 
+    background: #D6DBA2;
+}
+.Rectangle2 {
+    width: 195px; 
+    height: 38px; 
+    left: 0px; 
+    top: 486px; 
+    position: absolute; 
+    background: #D6DBA2;
+}
+.Profile {
+   left: 123px; 
+   top: 13px; 
+   position: absolute; 
+   color: #343628; 
+   font-size: 32px; 
+   font-family: Montserrat; 
+   font-weight: 600; 
+   word-wrap: break-word;
+}
+.Halo {
+    left: 7px; 
+    top: 159px; 
+    position: absolute; 
+    color: #343628; 
+    font-size: 10px; 
+    font-family: Montserrat; 
+    font-weight: 600; 
+    word-wrap: break-word;
+}
+.Mi {
+    left: -21px; 
+    top: 299px; 
+    position: absolute; 
+    color: #343628; 
+    font-size: 10px; 
+    font-family: Montserrat; 
+    font-weight: 600; 
+    word-wrap: break-word;
+}
+.Menulis {
+    left: -21px; 
+    top: 389px; 
+    position: absolute; 
+    color: #343628; 
+    font-size: 10px; 
+    font-family: Montserrat; 
+    font-weight: 600; 
+    word-wrap: break-word;
+}
+.Magang {
+    left: -21px; 
+    top: 481px; 
+    position: absolute; 
+    color: #343628; 
+    font-size: 10px; 
+    font-family: Montserrat; 
+    font-weight: 600; 
+    word-wrap: break-word;
+}
